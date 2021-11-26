@@ -60,7 +60,7 @@ https://github.com/ljbrewer/fitnessTracker
 -------------------------------------------------------------------------------
 ### Link to Application
 
-https://serene-garden-28944.herokuapp.com/
+https://dry-peak-32206.herokuapp.com/
 --------------------------------------------------------------------------------
 #### Credits: 
 
