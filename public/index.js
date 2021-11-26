@@ -118,7 +118,7 @@ function sendTransaction(isAdding) {
   })
   .then((response) => response.jason())
   .then((data) => {
-    if (data.errors) {
+     if (data.errors) {
       errorEl.textContent = "Missing Information";
     }
     else {
