@@ -1,0 +1,11 @@
+Uncaught (in promise) TypeError: transactions.reduce is not a function
+    at populateTotal (index.js:17)
+    at index.js:9
+
+
+
+2index.js:109 Uncaught TypeError: transactions.unshift is not a function
+    at sendTransaction (index.js:109)
+    at HTMLButtonElement.<anonymous> (index.js:153)
+
+

@@ -50,17 +50,17 @@ When brought back online:
 --------------------------------------------------------------------------------
 ### Link to GitHub repository 
 
-https://github.com/ljbrewer/fitnessTracker
+https://github.com/ljbrewer/BudgetTracker
 
 --------------------------------------------------------------------------------
 ### picture of page:
 
-![image of Readme.md creation process](public/picturefitness.png)
+![image of Budget Tracker](public/icons/btracker.jpg)
 
 -------------------------------------------------------------------------------
 ### Link to Application
 
-https://serene-garden-28944.herokuapp.com/
+https://dry-peak-32206.herokuapp.com/
 --------------------------------------------------------------------------------
 #### Credits: 
 
